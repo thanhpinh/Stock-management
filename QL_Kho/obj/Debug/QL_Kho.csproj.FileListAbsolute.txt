@@ -1,0 +1,309 @@
+E:\Đồ Án\Đồ Án\QL_Kho\QL_Kho\QL_Kho\bin\Debug\BaoCao\rpTonKho.rdlc
+E:\Đồ Án\Đồ Án\QL_Kho\QL_Kho\QL_Kho\bin\Debug\QL_Kho.exe.config
+E:\Đồ Án\Đồ Án\QL_Kho\QL_Kho\QL_Kho\bin\Debug\QL_Kho.exe
+E:\Đồ Án\Đồ Án\QL_Kho\QL_Kho\QL_Kho\bin\Debug\QL_Kho.pdb
+E:\Đồ Án\Đồ Án\QL_Kho\QL_Kho\QL_Kho\bin\Debug\EntityFramework.dll
+E:\Đồ Án\Đồ Án\QL_Kho\QL_Kho\QL_Kho\bin\Debug\EntityFramework.SqlServer.dll
+E:\Đồ Án\Đồ Án\QL_Kho\QL_Kho\QL_Kho\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\Đồ Án\Đồ Án\QL_Kho\QL_Kho\QL_Kho\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\Đồ Án\Đồ Án\QL_Kho\QL_Kho\QL_Kho\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\Đồ Án\Đồ Án\QL_Kho\QL_Kho\QL_Kho\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\Đồ Án\Đồ Án\QL_Kho\QL_Kho\QL_Kho\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\Đồ Án\Đồ Án\QL_Kho\QL_Kho\QL_Kho\bin\Debug\EntityFramework.xml
+E:\Đồ Án\Đồ Án\QL_Kho\QL_Kho\QL_Kho\bin\Debug\EntityFramework.SqlServer.xml
+E:\Đồ Án\Đồ Án\QL_Kho\QL_Kho\QL_Kho\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\Đồ Án\Đồ Án\QL_Kho\QL_Kho\QL_Kho\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\Đồ Án\Đồ Án\QL_Kho\QL_Kho\QL_Kho\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\Đồ Án\Đồ Án\QL_Kho\QL_Kho\QL_Kho\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\Đồ Án\Đồ Án\QL_Kho\QL_Kho\QL_Kho\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\Đồ Án\Đồ Án\QL_Kho\QL_Kho\QL_Kho\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\Đồ Án\Đồ Án\QL_Kho\QL_Kho\QL_Kho\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\Đồ Án\Đồ Án\QL_Kho\QL_Kho\QL_Kho\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\Đồ Án\Đồ Án\QL_Kho\QL_Kho\QL_Kho\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\Đồ Án\Đồ Án\QL_Kho\QL_Kho\QL_Kho\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\Đồ Án\Đồ Án\QL_Kho\QL_Kho\QL_Kho\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Đồ Án\Đồ Án\QL_Kho\QL_Kho\QL_Kho\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Đồ Án\Đồ Án\QL_Kho\QL_Kho\QL_Kho\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Đồ Án\Đồ Án\QL_Kho\QL_Kho\QL_Kho\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Đồ Án\Đồ Án\QL_Kho\QL_Kho\QL_Kho\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Đồ Án\Đồ Án\QL_Kho\QL_Kho\QL_Kho\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Đồ Án\Đồ Án\QL_Kho\QL_Kho\QL_Kho\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Đồ Án\Đồ Án\QL_Kho\QL_Kho\QL_Kho\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Đồ Án\Đồ Án\QL_Kho\QL_Kho\QL_Kho\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Đồ Án\Đồ Án\QL_Kho\QL_Kho\QL_Kho\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Đồ Án\Đồ Án\QL_Kho\QL_Kho\QL_Kho\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Đồ Án\Đồ Án\QL_Kho\QL_Kho\QL_Kho\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Đồ Án\Đồ Án\QL_Kho\QL_Kho\QL_Kho\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Đồ Án\Đồ Án\QL_Kho\QL_Kho\QL_Kho\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Đồ Án\Đồ Án\QL_Kho\QL_Kho\QL_Kho\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Đồ Án\Đồ Án\QL_Kho\QL_Kho\QL_Kho\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Đồ Án\Đồ Án\QL_Kho\QL_Kho\QL_Kho\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Đồ Án\Đồ Án\QL_Kho\QL_Kho\QL_Kho\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Đồ Án\Đồ Án\QL_Kho\QL_Kho\QL_Kho\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Đồ Án\Đồ Án\QL_Kho\QL_Kho\QL_Kho\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Đồ Án\Đồ Án\QL_Kho\QL_Kho\QL_Kho\obj\Debug\QL_Kho.frmBaoCaoNhapXuatTon.resources
+E:\Đồ Án\Đồ Án\QL_Kho\QL_Kho\QL_Kho\obj\Debug\QL_Kho.frmBaoCaoXuatKho.resources
+E:\Đồ Án\Đồ Án\QL_Kho\QL_Kho\QL_Kho\obj\Debug\QL_Kho.frmBaoCaoNhapKho.resources
+E:\Đồ Án\Đồ Án\QL_Kho\QL_Kho\QL_Kho\obj\Debug\QL_Kho.frmBaoCaoTonKhoTongHop.resources
+E:\Đồ Án\Đồ Án\QL_Kho\QL_Kho\QL_Kho\obj\Debug\QL_Kho.frmDoiMatKhau.resources
+E:\Đồ Án\Đồ Án\QL_Kho\QL_Kho\QL_Kho\obj\Debug\QL_Kho.frmDangNhap.resources
+E:\Đồ Án\Đồ Án\QL_Kho\QL_Kho\QL_Kho\obj\Debug\QL_Kho.frmPhieuChuyenKho.resources
+E:\Đồ Án\Đồ Án\QL_Kho\QL_Kho\QL_Kho\obj\Debug\QL_Kho.frmTinhGiaVonTonKho.resources
+E:\Đồ Án\Đồ Án\QL_Kho\QL_Kho\QL_Kho\obj\Debug\QL_Kho.frmPhieuXuatKho.resources
+E:\Đồ Án\Đồ Án\QL_Kho\QL_Kho\QL_Kho\obj\Debug\QL_Kho.frmTonDauKy.resources
+E:\Đồ Án\Đồ Án\QL_Kho\QL_Kho\QL_Kho\obj\Debug\QL_Kho.frmHangHoa.resources
+E:\Đồ Án\Đồ Án\QL_Kho\QL_Kho\QL_Kho\obj\Debug\QL_Kho.frmKho.resources
+E:\Đồ Án\Đồ Án\QL_Kho\QL_Kho\QL_Kho\obj\Debug\QL_Kho.frmNhomHang.resources
+E:\Đồ Án\Đồ Án\QL_Kho\QL_Kho\QL_Kho\obj\Debug\QL_Kho.frmNhaCungCap.resources
+E:\Đồ Án\Đồ Án\QL_Kho\QL_Kho\QL_Kho\obj\Debug\QL_Kho.frmPhieuMua.resources
+E:\Đồ Án\Đồ Án\QL_Kho\QL_Kho\QL_Kho\obj\Debug\QL_Kho.frmKhachHang.resources
+E:\Đồ Án\Đồ Án\QL_Kho\QL_Kho\QL_Kho\obj\Debug\QL_Kho.frmPhieuNhapKho.resources
+E:\Đồ Án\Đồ Án\QL_Kho\QL_Kho\QL_Kho\obj\Debug\QL_Kho.frmTaiKhoan.resources
+E:\Đồ Án\Đồ Án\QL_Kho\QL_Kho\QL_Kho\obj\Debug\QL_Kho.frmNhanVien.resources
+E:\Đồ Án\Đồ Án\QL_Kho\QL_Kho\QL_Kho\obj\Debug\QL_Kho.Properties.Resources.resources
+E:\Đồ Án\Đồ Án\QL_Kho\QL_Kho\QL_Kho\obj\Debug\QL_Kho.frmTrangChu.resources
+E:\Đồ Án\Đồ Án\QL_Kho\QL_Kho\QL_Kho\obj\Debug\QL_Kho.csproj.GenerateResource.Cache
+E:\Đồ Án\Đồ Án\QL_Kho\QL_Kho\QL_Kho\obj\Debug\QL_Kho.exe
+E:\Đồ Án\Đồ Án\QL_Kho\QL_Kho\QL_Kho\obj\Debug\QL_Kho.pdb
+E:\Đồ Án\Đồ Án\QL_Kho\QL_Kho\QL_Kho\obj\Debug\QL_Kho.frmBaoCaoNhapKhoTheoDoiTuong.resources
+E:\Đồ Án\Đồ Án\QL_Kho\QL_Kho\QL_Kho\obj\Debug\QL_Kho.frmBaoCaoXuatKhoTheoDoiTuong.resources
+E:\Đồ Án\Đồ Án\QL_Kho\QL_Kho\QL_Kho\obj\Debug\QL_Kho.csprojResolveAssemblyReference.cache
+D:\code_thue\QL_Kho\QL_Kho\QL_Kho\bin\Debug\BaoCao\rpTonKho.rdlc
+D:\code_thue\QL_Kho\QL_Kho\QL_Kho\bin\Debug\QL_Kho.exe.config
+D:\code_thue\QL_Kho\QL_Kho\QL_Kho\bin\Debug\QL_Kho.exe
+D:\code_thue\QL_Kho\QL_Kho\QL_Kho\bin\Debug\QL_Kho.pdb
+D:\code_thue\QL_Kho\QL_Kho\QL_Kho\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\code_thue\QL_Kho\QL_Kho\QL_Kho\bin\Debug\EnvDTE.dll
+D:\code_thue\QL_Kho\QL_Kho\QL_Kho\bin\Debug\stdole.dll
+D:\code_thue\QL_Kho\QL_Kho\QL_Kho\bin\Debug\EntityFramework.xml
+D:\code_thue\QL_Kho\QL_Kho\QL_Kho\bin\Debug\EntityFramework.SqlServer.xml
+D:\code_thue\QL_Kho\QL_Kho\QL_Kho\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\code_thue\QL_Kho\QL_Kho\QL_Kho\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\code_thue\QL_Kho\QL_Kho\QL_Kho\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\code_thue\QL_Kho\QL_Kho\QL_Kho\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\code_thue\QL_Kho\QL_Kho\QL_Kho\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\code_thue\QL_Kho\QL_Kho\QL_Kho\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\code_thue\QL_Kho\QL_Kho\QL_Kho\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\code_thue\QL_Kho\QL_Kho\QL_Kho\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\code_thue\QL_Kho\QL_Kho\QL_Kho\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\code_thue\QL_Kho\QL_Kho\QL_Kho\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\code_thue\QL_Kho\QL_Kho\QL_Kho\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\code_thue\QL_Kho\QL_Kho\QL_Kho\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\code_thue\QL_Kho\QL_Kho\QL_Kho\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\code_thue\QL_Kho\QL_Kho\QL_Kho\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\code_thue\QL_Kho\QL_Kho\QL_Kho\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\code_thue\QL_Kho\QL_Kho\QL_Kho\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\code_thue\QL_Kho\QL_Kho\QL_Kho\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\code_thue\QL_Kho\QL_Kho\QL_Kho\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\code_thue\QL_Kho\QL_Kho\QL_Kho\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\code_thue\QL_Kho\QL_Kho\QL_Kho\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\code_thue\QL_Kho\QL_Kho\QL_Kho\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\code_thue\QL_Kho\QL_Kho\QL_Kho\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\code_thue\QL_Kho\QL_Kho\QL_Kho\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\code_thue\QL_Kho\QL_Kho\QL_Kho\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\code_thue\QL_Kho\QL_Kho\QL_Kho\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\code_thue\QL_Kho\QL_Kho\QL_Kho\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\code_thue\QL_Kho\QL_Kho\QL_Kho\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\code_thue\QL_Kho\QL_Kho\QL_Kho\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\code_thue\QL_Kho\QL_Kho\QL_Kho\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\code_thue\QL_Kho\QL_Kho\QL_Kho\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\code_thue\QL_Kho\QL_Kho\QL_Kho\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\code_thue\QL_Kho\QL_Kho\QL_Kho\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\code_thue\QL_Kho\QL_Kho\QL_Kho\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\code_thue\QL_Kho\QL_Kho\QL_Kho\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\code_thue\QL_Kho\QL_Kho\QL_Kho\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\code_thue\QL_Kho\QL_Kho\QL_Kho\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\code_thue\QL_Kho\QL_Kho\QL_Kho\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\code_thue\QL_Kho\QL_Kho\QL_Kho\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\code_thue\QL_Kho\QL_Kho\QL_Kho\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\code_thue\QL_Kho\QL_Kho\QL_Kho\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\code_thue\QL_Kho\QL_Kho\QL_Kho\obj\Debug\QL_Kho.csproj.AssemblyReference.cache
+D:\code_thue\QL_Kho\QL_Kho\QL_Kho\obj\Debug\QL_Kho.csproj.SuggestedBindingRedirects.cache
+D:\code_thue\QL_Kho\QL_Kho\QL_Kho\obj\Debug\QL_Kho.frmBaoCaoXuatKho.resources
+D:\code_thue\QL_Kho\QL_Kho\QL_Kho\obj\Debug\QL_Kho.frmBaoCaoNhapKhoTheoDoiTuong.resources
+D:\code_thue\QL_Kho\QL_Kho\QL_Kho\obj\Debug\QL_Kho.frmBaoCaoNhapXuatTon.resources
+D:\code_thue\QL_Kho\QL_Kho\QL_Kho\obj\Debug\QL_Kho.frmBaoCaoXuatKhoTheoDoiTuong.resources
+D:\code_thue\QL_Kho\QL_Kho\QL_Kho\obj\Debug\QL_Kho.frmBaoCaoNhapKho.resources
+D:\code_thue\QL_Kho\QL_Kho\QL_Kho\obj\Debug\QL_Kho.frmBaoCaoTonKhoTongHop.resources
+D:\code_thue\QL_Kho\QL_Kho\QL_Kho\obj\Debug\QL_Kho.frmDoiMatKhau.resources
+D:\code_thue\QL_Kho\QL_Kho\QL_Kho\obj\Debug\QL_Kho.frmDangNhap.resources
+D:\code_thue\QL_Kho\QL_Kho\QL_Kho\obj\Debug\QL_Kho.frmPhieuChuyenKho.resources
+D:\code_thue\QL_Kho\QL_Kho\QL_Kho\obj\Debug\QL_Kho.frmTinhGiaVonTonKho.resources
+D:\code_thue\QL_Kho\QL_Kho\QL_Kho\obj\Debug\QL_Kho.frmPhieuXuatKho.resources
+D:\code_thue\QL_Kho\QL_Kho\QL_Kho\obj\Debug\QL_Kho.frmTonDauKy.resources
+D:\code_thue\QL_Kho\QL_Kho\QL_Kho\obj\Debug\QL_Kho.frmHangHoa.resources
+D:\code_thue\QL_Kho\QL_Kho\QL_Kho\obj\Debug\QL_Kho.frmKho.resources
+D:\code_thue\QL_Kho\QL_Kho\QL_Kho\obj\Debug\QL_Kho.frmNhomHang.resources
+D:\code_thue\QL_Kho\QL_Kho\QL_Kho\obj\Debug\QL_Kho.frmNhaCungCap.resources
+D:\code_thue\QL_Kho\QL_Kho\QL_Kho\obj\Debug\QL_Kho.frmPhieuMua.resources
+D:\code_thue\QL_Kho\QL_Kho\QL_Kho\obj\Debug\QL_Kho.frmKhachHang.resources
+D:\code_thue\QL_Kho\QL_Kho\QL_Kho\obj\Debug\QL_Kho.frmPhieuNhapKho.resources
+D:\code_thue\QL_Kho\QL_Kho\QL_Kho\obj\Debug\QL_Kho.frmTaiKhoan.resources
+D:\code_thue\QL_Kho\QL_Kho\QL_Kho\obj\Debug\QL_Kho.frmNhanVien.resources
+D:\code_thue\QL_Kho\QL_Kho\QL_Kho\obj\Debug\QL_Kho.Properties.Resources.resources
+D:\code_thue\QL_Kho\QL_Kho\QL_Kho\obj\Debug\QL_Kho.frmTrangChu.resources
+D:\code_thue\QL_Kho\QL_Kho\QL_Kho\obj\Debug\QL_Kho.csproj.GenerateResource.cache
+D:\code_thue\QL_Kho\QL_Kho\QL_Kho\obj\Debug\QL_Kho.csproj.CoreCompileInputs.cache
+D:\code_thue\QL_Kho\QL_Kho\QL_Kho\obj\Debug\QL_Kho.csproj.CopyComplete
+D:\code_thue\QL_Kho\QL_Kho\QL_Kho\obj\Debug\QL_Kho.exe
+D:\code_thue\QL_Kho\QL_Kho\QL_Kho\obj\Debug\QL_Kho.pdb
+D:\code_thue\New\QL_Kho\QL_Kho\QL_Kho\bin\Debug\BaoCao\rpTonKho.rdlc
+D:\code_thue\New\QL_Kho\QL_Kho\QL_Kho\bin\Debug\QL_Kho.exe.config
+D:\code_thue\New\QL_Kho\QL_Kho\QL_Kho\bin\Debug\QL_Kho.exe
+D:\code_thue\New\QL_Kho\QL_Kho\QL_Kho\bin\Debug\QL_Kho.pdb
+D:\code_thue\New\QL_Kho\QL_Kho\QL_Kho\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\code_thue\New\QL_Kho\QL_Kho\QL_Kho\bin\Debug\EnvDTE.dll
+D:\code_thue\New\QL_Kho\QL_Kho\QL_Kho\bin\Debug\stdole.dll
+D:\code_thue\New\QL_Kho\QL_Kho\QL_Kho\bin\Debug\EntityFramework.xml
+D:\code_thue\New\QL_Kho\QL_Kho\QL_Kho\bin\Debug\EntityFramework.SqlServer.xml
+D:\code_thue\New\QL_Kho\QL_Kho\QL_Kho\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\code_thue\New\QL_Kho\QL_Kho\QL_Kho\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\code_thue\New\QL_Kho\QL_Kho\QL_Kho\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\code_thue\New\QL_Kho\QL_Kho\QL_Kho\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\code_thue\New\QL_Kho\QL_Kho\QL_Kho\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\code_thue\New\QL_Kho\QL_Kho\QL_Kho\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\code_thue\New\QL_Kho\QL_Kho\QL_Kho\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\code_thue\New\QL_Kho\QL_Kho\QL_Kho\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\code_thue\New\QL_Kho\QL_Kho\QL_Kho\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\code_thue\New\QL_Kho\QL_Kho\QL_Kho\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\code_thue\New\QL_Kho\QL_Kho\QL_Kho\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\code_thue\New\QL_Kho\QL_Kho\QL_Kho\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\code_thue\New\QL_Kho\QL_Kho\QL_Kho\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\code_thue\New\QL_Kho\QL_Kho\QL_Kho\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\code_thue\New\QL_Kho\QL_Kho\QL_Kho\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\code_thue\New\QL_Kho\QL_Kho\QL_Kho\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\code_thue\New\QL_Kho\QL_Kho\QL_Kho\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\code_thue\New\QL_Kho\QL_Kho\QL_Kho\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\code_thue\New\QL_Kho\QL_Kho\QL_Kho\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\code_thue\New\QL_Kho\QL_Kho\QL_Kho\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\code_thue\New\QL_Kho\QL_Kho\QL_Kho\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\code_thue\New\QL_Kho\QL_Kho\QL_Kho\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\code_thue\New\QL_Kho\QL_Kho\QL_Kho\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\code_thue\New\QL_Kho\QL_Kho\QL_Kho\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\code_thue\New\QL_Kho\QL_Kho\QL_Kho\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\code_thue\New\QL_Kho\QL_Kho\QL_Kho\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\code_thue\New\QL_Kho\QL_Kho\QL_Kho\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\code_thue\New\QL_Kho\QL_Kho\QL_Kho\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\code_thue\New\QL_Kho\QL_Kho\QL_Kho\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\code_thue\New\QL_Kho\QL_Kho\QL_Kho\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\code_thue\New\QL_Kho\QL_Kho\QL_Kho\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\code_thue\New\QL_Kho\QL_Kho\QL_Kho\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\code_thue\New\QL_Kho\QL_Kho\QL_Kho\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\code_thue\New\QL_Kho\QL_Kho\QL_Kho\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\code_thue\New\QL_Kho\QL_Kho\QL_Kho\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\code_thue\New\QL_Kho\QL_Kho\QL_Kho\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\code_thue\New\QL_Kho\QL_Kho\QL_Kho\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\code_thue\New\QL_Kho\QL_Kho\QL_Kho\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\code_thue\New\QL_Kho\QL_Kho\QL_Kho\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\code_thue\New\QL_Kho\QL_Kho\QL_Kho\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\code_thue\New\QL_Kho\QL_Kho\QL_Kho\obj\Debug\QL_Kho.csproj.AssemblyReference.cache
+D:\code_thue\New\QL_Kho\QL_Kho\QL_Kho\obj\Debug\QL_Kho.csproj.SuggestedBindingRedirects.cache
+D:\code_thue\New\QL_Kho\QL_Kho\QL_Kho\obj\Debug\QL_Kho.frmBaoCaoXuatKho.resources
+D:\code_thue\New\QL_Kho\QL_Kho\QL_Kho\obj\Debug\QL_Kho.frmBaoCaoNhapKhoTheoDoiTuong.resources
+D:\code_thue\New\QL_Kho\QL_Kho\QL_Kho\obj\Debug\QL_Kho.frmBaoCaoNhapXuatTon.resources
+D:\code_thue\New\QL_Kho\QL_Kho\QL_Kho\obj\Debug\QL_Kho.frmBaoCaoXuatKhoTheoDoiTuong.resources
+D:\code_thue\New\QL_Kho\QL_Kho\QL_Kho\obj\Debug\QL_Kho.frmBaoCaoNhapKho.resources
+D:\code_thue\New\QL_Kho\QL_Kho\QL_Kho\obj\Debug\QL_Kho.frmBaoCaoTonKhoTongHop.resources
+D:\code_thue\New\QL_Kho\QL_Kho\QL_Kho\obj\Debug\QL_Kho.frmDoiMatKhau.resources
+D:\code_thue\New\QL_Kho\QL_Kho\QL_Kho\obj\Debug\QL_Kho.frmDangNhap.resources
+D:\code_thue\New\QL_Kho\QL_Kho\QL_Kho\obj\Debug\QL_Kho.frmPhieuChuyenKho.resources
+D:\code_thue\New\QL_Kho\QL_Kho\QL_Kho\obj\Debug\QL_Kho.frmTinhGiaVonTonKho.resources
+D:\code_thue\New\QL_Kho\QL_Kho\QL_Kho\obj\Debug\QL_Kho.frmPhieuXuatKho.resources
+D:\code_thue\New\QL_Kho\QL_Kho\QL_Kho\obj\Debug\QL_Kho.frmTonDauKy.resources
+D:\code_thue\New\QL_Kho\QL_Kho\QL_Kho\obj\Debug\QL_Kho.frmHangHoa.resources
+D:\code_thue\New\QL_Kho\QL_Kho\QL_Kho\obj\Debug\QL_Kho.frmKho.resources
+D:\code_thue\New\QL_Kho\QL_Kho\QL_Kho\obj\Debug\QL_Kho.frmNhomHang.resources
+D:\code_thue\New\QL_Kho\QL_Kho\QL_Kho\obj\Debug\QL_Kho.frmNhaCungCap.resources
+D:\code_thue\New\QL_Kho\QL_Kho\QL_Kho\obj\Debug\QL_Kho.frmPhieuMua.resources
+D:\code_thue\New\QL_Kho\QL_Kho\QL_Kho\obj\Debug\QL_Kho.frmKhachHang.resources
+D:\code_thue\New\QL_Kho\QL_Kho\QL_Kho\obj\Debug\QL_Kho.frmPhieuNhapKho.resources
+D:\code_thue\New\QL_Kho\QL_Kho\QL_Kho\obj\Debug\QL_Kho.frmTaiKhoan.resources
+D:\code_thue\New\QL_Kho\QL_Kho\QL_Kho\obj\Debug\QL_Kho.frmNhanVien.resources
+D:\code_thue\New\QL_Kho\QL_Kho\QL_Kho\obj\Debug\QL_Kho.Properties.Resources.resources
+D:\code_thue\New\QL_Kho\QL_Kho\QL_Kho\obj\Debug\QL_Kho.frmTrangChu.resources
+D:\code_thue\New\QL_Kho\QL_Kho\QL_Kho\obj\Debug\QL_Kho.csproj.GenerateResource.cache
+D:\code_thue\New\QL_Kho\QL_Kho\QL_Kho\obj\Debug\QL_Kho.csproj.CoreCompileInputs.cache
+D:\code_thue\New\QL_Kho\QL_Kho\QL_Kho\obj\Debug\QL_Kho.csproj.CopyComplete
+D:\code_thue\New\QL_Kho\QL_Kho\QL_Kho\obj\Debug\QL_Kho.exe
+D:\code_thue\New\QL_Kho\QL_Kho\QL_Kho\obj\Debug\QL_Kho.pdb
+D:\code_thue\New\QL_Kho\QL_Kho\QL_Kho\obj\Debug\QL_Kho.BaoCao.frmHopDongMuaHang.resources
+D:\TTCN\QL_Kho\QL_Kho\bin\Debug\BaoCao\rpTonKho.rdlc
+D:\TTCN\QL_Kho\QL_Kho\bin\Debug\QL_Kho.exe.config
+D:\TTCN\QL_Kho\QL_Kho\bin\Debug\QL_Kho.exe
+D:\TTCN\QL_Kho\QL_Kho\bin\Debug\QL_Kho.pdb
+D:\TTCN\QL_Kho\QL_Kho\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\TTCN\QL_Kho\QL_Kho\bin\Debug\EnvDTE.dll
+D:\TTCN\QL_Kho\QL_Kho\bin\Debug\stdole.dll
+D:\TTCN\QL_Kho\QL_Kho\bin\Debug\EntityFramework.xml
+D:\TTCN\QL_Kho\QL_Kho\bin\Debug\EntityFramework.SqlServer.xml
+D:\TTCN\QL_Kho\QL_Kho\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\TTCN\QL_Kho\QL_Kho\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\TTCN\QL_Kho\QL_Kho\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\TTCN\QL_Kho\QL_Kho\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\TTCN\QL_Kho\QL_Kho\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\TTCN\QL_Kho\QL_Kho\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\TTCN\QL_Kho\QL_Kho\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\TTCN\QL_Kho\QL_Kho\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\TTCN\QL_Kho\QL_Kho\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\TTCN\QL_Kho\QL_Kho\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\TTCN\QL_Kho\QL_Kho\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\TTCN\QL_Kho\QL_Kho\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\TTCN\QL_Kho\QL_Kho\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\TTCN\QL_Kho\QL_Kho\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\TTCN\QL_Kho\QL_Kho\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\TTCN\QL_Kho\QL_Kho\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\TTCN\QL_Kho\QL_Kho\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\TTCN\QL_Kho\QL_Kho\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\TTCN\QL_Kho\QL_Kho\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\TTCN\QL_Kho\QL_Kho\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\TTCN\QL_Kho\QL_Kho\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\TTCN\QL_Kho\QL_Kho\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\TTCN\QL_Kho\QL_Kho\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\TTCN\QL_Kho\QL_Kho\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\TTCN\QL_Kho\QL_Kho\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\TTCN\QL_Kho\QL_Kho\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\TTCN\QL_Kho\QL_Kho\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\TTCN\QL_Kho\QL_Kho\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\TTCN\QL_Kho\QL_Kho\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\TTCN\QL_Kho\QL_Kho\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\TTCN\QL_Kho\QL_Kho\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\TTCN\QL_Kho\QL_Kho\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\TTCN\QL_Kho\QL_Kho\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\TTCN\QL_Kho\QL_Kho\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\TTCN\QL_Kho\QL_Kho\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\TTCN\QL_Kho\QL_Kho\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\TTCN\QL_Kho\QL_Kho\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\TTCN\QL_Kho\QL_Kho\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\TTCN\QL_Kho\QL_Kho\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\TTCN\QL_Kho\QL_Kho\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\TTCN\QL_Kho\QL_Kho\obj\Debug\QL_Kho.csproj.AssemblyReference.cache
+D:\TTCN\QL_Kho\QL_Kho\obj\Debug\QL_Kho.csproj.SuggestedBindingRedirects.cache
+D:\TTCN\QL_Kho\QL_Kho\obj\Debug\QL_Kho.frmBaoCaoXuatKho.resources
+D:\TTCN\QL_Kho\QL_Kho\obj\Debug\QL_Kho.frmBaoCaoNhapKhoTheoDoiTuong.resources
+D:\TTCN\QL_Kho\QL_Kho\obj\Debug\QL_Kho.frmBaoCaoNhapXuatTon.resources
+D:\TTCN\QL_Kho\QL_Kho\obj\Debug\QL_Kho.frmBaoCaoXuatKhoTheoDoiTuong.resources
+D:\TTCN\QL_Kho\QL_Kho\obj\Debug\QL_Kho.frmBaoCaoNhapKho.resources
+D:\TTCN\QL_Kho\QL_Kho\obj\Debug\QL_Kho.frmBaoCaoTonKhoTongHop.resources
+D:\TTCN\QL_Kho\QL_Kho\obj\Debug\QL_Kho.BaoCao.frmHopDongMuaHang.resources
+D:\TTCN\QL_Kho\QL_Kho\obj\Debug\QL_Kho.frmDoiMatKhau.resources
+D:\TTCN\QL_Kho\QL_Kho\obj\Debug\QL_Kho.frmDangNhap.resources
+D:\TTCN\QL_Kho\QL_Kho\obj\Debug\QL_Kho.frmPhieuChuyenKho.resources
+D:\TTCN\QL_Kho\QL_Kho\obj\Debug\QL_Kho.frmTinhGiaVonTonKho.resources
+D:\TTCN\QL_Kho\QL_Kho\obj\Debug\QL_Kho.frmPhieuXuatKho.resources
+D:\TTCN\QL_Kho\QL_Kho\obj\Debug\QL_Kho.frmTonDauKy.resources
+D:\TTCN\QL_Kho\QL_Kho\obj\Debug\QL_Kho.frmHangHoa.resources
+D:\TTCN\QL_Kho\QL_Kho\obj\Debug\QL_Kho.frmKho.resources
+D:\TTCN\QL_Kho\QL_Kho\obj\Debug\QL_Kho.frmNhomHang.resources
+D:\TTCN\QL_Kho\QL_Kho\obj\Debug\QL_Kho.frmNhaCungCap.resources
+D:\TTCN\QL_Kho\QL_Kho\obj\Debug\QL_Kho.frmPhieuMua.resources
+D:\TTCN\QL_Kho\QL_Kho\obj\Debug\QL_Kho.frmKhachHang.resources
+D:\TTCN\QL_Kho\QL_Kho\obj\Debug\QL_Kho.frmPhieuNhapKho.resources
+D:\TTCN\QL_Kho\QL_Kho\obj\Debug\QL_Kho.frmTaiKhoan.resources
+D:\TTCN\QL_Kho\QL_Kho\obj\Debug\QL_Kho.frmNhanVien.resources
+D:\TTCN\QL_Kho\QL_Kho\obj\Debug\QL_Kho.Properties.Resources.resources
+D:\TTCN\QL_Kho\QL_Kho\obj\Debug\QL_Kho.frmTrangChu.resources
+D:\TTCN\QL_Kho\QL_Kho\obj\Debug\QL_Kho.csproj.GenerateResource.cache
+D:\TTCN\QL_Kho\QL_Kho\obj\Debug\QL_Kho.csproj.CoreCompileInputs.cache
+D:\TTCN\QL_Kho\QL_Kho\obj\Debug\QL_Kho.csproj.CopyComplete
+D:\TTCN\QL_Kho\QL_Kho\obj\Debug\QL_Kho.exe
+D:\TTCN\QL_Kho\QL_Kho\obj\Debug\QL_Kho.pdb
